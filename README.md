@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tulugu Jayanth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img  alt="Coding" width="1200" src="./github-header.png"/>
+<img  alt="Coding" width="1200" src="./github-main-image.png"/>
 
 
 

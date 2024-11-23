@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tulugu Jayanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs
 "/>
 

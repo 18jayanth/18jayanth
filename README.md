@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tulugu Jayanth</h1>
+<h1 align="center">Hi👋, I'm Tulugu Jayanth </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img  alt="Coding" width="1200" src="./github-main-image.png"/>
 
@@ -25,9 +25,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/tulugu-jayanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tulugu-jayanth" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jayanth_chinnu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt=" https://www.codechef.com/users/jayanth_chinnu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/jayanthtulugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jayanthtulugu" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/chinnu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/chinnu7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jayanth_777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jayanth_777/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@jayanthtulugu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@jayanthtulugu/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/jayanthtulugu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/jayanthtulugu/" height="30" width="40" /></a>
 </p>
 

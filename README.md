@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jayanthtulugu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/151Ev7Y6O0sWGjpoKrvyu8zCdu-HTtXIf/view?usp=sharing](https://drive.google.com/file/d/151Ev7Y6O0sWGjpoKrvyu8zCdu-HTtXIf/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BAflhfPy1tvUgbiin1WC4sD1Dk2BWAca/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
